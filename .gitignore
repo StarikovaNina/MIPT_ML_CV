@@ -32,3 +32,4 @@ Homeworks/hw2/utils/captioning_solver_pytorch.py
 Homeworks/hw2/classifiers/rnn_pytorch.py
 Homeworks/hw2/datasets/cifar-10-python.tar.gz
 Homeworks/hw2/utils/__pycache__/*
+hw-solved/*
